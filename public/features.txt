@@ -1,0 +1,54 @@
+=======
+TODoApp
+=======
+author: erick
+date: 22-12-2015
+
+============================
+What this App promises to do
+============================
+Basically, a todo app to manage projects + tasks to accomplish projects + subtasks to accomplish tasks.
+
+============
+how it works
+============
+
+============
+version 1.0
+============
+1. A user registration is required to use the app
+2. user can create projects
+3. projects can have tasks
+4. tasks can have subtasks
+
+============
+version 2.0
+============
+extends the functionality of version 1.0 by adding more features
+1. events when a task is edited or deleted or updated
+2. email reminder service for completed + pending tasks
+3. weekly summary about tasks performance in general
+4. add progress bars to display current status of completion for each project & tasks
+    a. user can allocates which project or task should take how much time
+    b. user can select to work on one or more task & time is recorded in database
+5. time remaining based upon created_at & due date balance
+6. spell checker third party service
+7. ckeditor for formatting desc
+8. duplicate entry check
+9. user specific dedicated tables automatically created
+10. incorporate bread crumbs
+11. draggable jquery ui ux where user can change priority of tasks
+
+===========
+version 3.0
+===========
+extends the functionality of version 2.0 by adding more features
+1. task delegate or share functionality with other users
+2. expand user model to be able to create detailed profile before sharing with partners, its helpful in identifying
+    a. add profile image
+    b. profile name
+    c. location
+    d. gender
+    e. age
+    f. skills or interests
+    g. performance score

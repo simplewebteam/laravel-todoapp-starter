@@ -1,0 +1,26 @@
+================
+high level steps
+================
+
+1. mock up of our site
+    a. already been done for you
+    b. go to mockup site link in description and create some mock ups to suit your taste
+2. structure of site - namely pages
+    a. home > all projects
+    b. login
+    c. register
+    d. project/create
+    e. project/edit
+    f. project > tasks list
+
+3. database - Schema design
+    a. users table
+    b. projects table
+    c. tasks table
+    e. subtasks table
+    f. database seeding
+
+4. views
+    a. front end framework - bootstrap
+
+5. ongoing
